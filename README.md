@@ -15,7 +15,7 @@ Final-year CS undergrad @ VIT Vellore · Building agentic AI systems, RAG pipeli
 
 | Project | What it does |
 |---|---|
-| [NOC Copilot](https://github.com/ananyagupta17) | 7-layer agentic system that investigates network incidents and produces auditable RCA with evidence-weighted confidence scoring |
+| [NOC Copilot](https://github.com/ananyagupta17/ai-noc-copilot) | 7-layer agentic system that investigates network incidents and produces auditable RCA with evidence-weighted confidence scoring |
 | [CreditCompass](https://huggingface.co/spaces/ananyagupta17/CreditCompass) | Loan approval classifier with per-prediction SHAP explanations, deployed via Docker |
 | [PolicyPal](https://github.com/ananyagupta17/PolicyPal-rag) | RAG pipeline for insurance document QA — answers strictly from retrieved context |
 | [Supply Chain DApp](https://github.com/ananyagupta17/supply-chain-dapp) | Ethereum smart contract system for tamper-proof product tracking across supply chains |
