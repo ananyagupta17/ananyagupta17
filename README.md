@@ -23,7 +23,7 @@ Final-year CS undergrad @ VIT Vellore · Building agentic AI systems, RAG pipeli
 ---
 
 ### Stack
-`Python` `LangGraph` `LangChain` `Gemini` `ChromaDB` `Pinecone` `CatBoost` `SHAP` `FastAPI` `Docker` `GitHub Actions`
+`Python` `LangGraph` `LangChain` `Gemini` `ChromaDB` `Pinecone` `FastAPI` `Docker` `GitHub Actions`
 
 ---
 
