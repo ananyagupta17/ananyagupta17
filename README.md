@@ -1,6 +1,6 @@
 # Hi, I'm Ananya Gupta 👋
 
-Final-year CS (AI/ML) undergrad @ VIT Vellore · Building agentic AI systems, RAG pipelines, and end-to-end ML deployments
+Final-year CS undergrad @ VIT Vellore · Building agentic AI systems, RAG pipelines, and end-to-end ML deployments
 
 ---
 
